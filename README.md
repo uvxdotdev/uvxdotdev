@@ -1,4 +1,23 @@
-Hello World!
+# Hi there, I'm Utkarsh 👋
+
+**Software Engineer** at [Tachyon Labs](https://tachyonlabs.in) building cutting-edge healthcare chatbots
+
+I'm a fresh college graduate passionate about **systems programming**, **web development**, and **AI**. Currently working on healthcare chatbots, and always exploring new technologies in my spare time.
+
+## 🛠️ Technologies & Tools
+
+```
+Languages:     Rust • Go • Python • TypeScript • JavaScript
+Cloud:         AWS • WebAssembly
+Interests:     Graphics Programming • Emulation • AI/ML
+```
+
+## 🚀 What I'm Working On
+
+- Pushing the limits of browser visualization with Rust + WASM + WebGPU
+- Building scalable, high-performance, and secure web applications
+
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -19,3 +38,13 @@ JavaScript                4 mins          ▒░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## 🌐 Let's Connect
+
+- **Portfolio:** [utkarsh-verma.com](https://utkarsh-verma.com)
+- **Email:** theutkarsh.verma00@gmail.com
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/utkarsh-verm4)
+
+---
+
+*Always interested in new opportunities and collaborations. Whether you have a project in mind or just want to chat about Rust, systems programming, or the latest in AI – I'd love to hear from you!*
