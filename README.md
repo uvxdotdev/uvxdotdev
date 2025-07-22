@@ -1,21 +1,23 @@
 # Hi there, I'm Utkarsh 👋
 
-**Software Engineer** at [Tachyon Labs](https://tachyonlabs.in) building cutting-edge healthcare chatbots
+**Software Engineer** at [SimPPL](https://simppl.org) building cutting-edge healthcare chatbots and social media intelligence platforms.
 
-I'm a fresh college graduate passionate about **systems programming**, **web development**, and **AI**. Currently working on healthcare chatbots, and always exploring new technologies in my spare time.
+I'm a fresh college graduate passionate about **systems programming**, **web development**, and **AI**.
 
 ## 🛠️ Technologies & Tools
 
 ```
 Languages:     Rust • Go • Python • TypeScript • JavaScript
-Cloud:         AWS • WebAssembly
-Interests:     Graphics Programming • Emulation • AI/ML
+Cloud:         AWS • Cloudflare
+Interests:     Graphics Programming • Systems Programming • AI/ML
+Tools:         Neovim BTW
 ```
 
 ## 🚀 What I'm Working On
 
 - Pushing the limits of browser visualization with Rust + WASM + WebGPU
 - Building scalable, high-performance, and secure web applications
+- Making fun terminal tools because there can never be enough of that
 
 ## 📊 Weekly Development Breakdown
 
