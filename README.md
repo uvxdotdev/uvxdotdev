@@ -24,20 +24,20 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
-Total Time: 5 hrs 20 mins
+Total Time: 8 hrs 36 mins
 
-Python                    59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-TypeScript                58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Rust                      45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-JSON                      40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-Markdown                  34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-HTML                      30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Bash                      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-WebGPU Shading Language   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Ezhil                     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-JavaScript                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+TypeScript                1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+HTML                      1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Rust                      1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Markdown                  1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+JSON                      1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Python                    57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+WebGPU Shading Language   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Bash                      19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+JavaScript                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Ezhil                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
