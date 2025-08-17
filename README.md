@@ -24,20 +24,20 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 8 hrs 6 mins
+Total Time: 6 hrs 47 mins
 
-Python         4 hrs 36 mins   ██████████████▒░░░░░░░░░░   56.84 %
-TypeScript     45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Rust           41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Makefile       39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-YAML           19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Bash           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-ActionScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Docker         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Markdown       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-fish           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python         3 hrs 39 mins   █████████████▒░░░░░░░░░░░   53.84 %
+TypeScript     45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Rust           41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Makefile       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Bash           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Markdown       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+ActionScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+fish           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Text           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+TOML           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
