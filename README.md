@@ -24,18 +24,16 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 3 hrs 46 mins
+Total Time: 3 hrs 44 mins
 
-Python      3 hrs 8 mins    ████████████████████▓░░░░   83.25 %
-sh          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-conf        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Markdown    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-TOML        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-fish        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Nix         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python      3 hrs 8 mins    █████████████████████░░░░   84.01 %
+sh          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+fish        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+conf        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Nix         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
