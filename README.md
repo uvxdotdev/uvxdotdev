@@ -24,18 +24,20 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 5 hrs 1 min
+Total Time: 6 hrs 23 mins
 
-Python      4 hrs 9 mins    ████████████████████▓░░░░   82.73 %
-sh          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Docker      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-fish        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Text        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Markdown    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Nix         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python         4 hrs 33 mins   █████████████████▓░░░░░░░   71.29 %
+TypeScript     48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+sh             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Docker         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+fish           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Text           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+shell script   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Markdown       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Ezhil          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
