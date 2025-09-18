@@ -24,20 +24,20 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 September 2025 - To: 17 September 2025
+From: 11 September 2025 - To: 18 September 2025
 
-Total Time: 5 hrs 1 min
+Total Time: 4 hrs 45 mins
 
-Python         2 hrs 59 mins   ██████████████▓░░░░░░░░░░   59.30 %
-TypeScript     1 hr 45 mins    ████████▓░░░░░░░░░░░░░░░░   34.81 %
-Markdown       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-jsonc          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Python         2 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.22 %
+TypeScript     1 hr 45 mins    █████████▒░░░░░░░░░░░░░░░   36.77 %
+Markdown       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+jsonc          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 Text           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-TOML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Makefile       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Docker         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TOML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Makefile       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Rust           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+git ignore     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
