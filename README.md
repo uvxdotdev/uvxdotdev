@@ -24,17 +24,17 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-Total Time: 4 hrs 11 mins
+Total Time: 5 hrs
 
-Python         2 hrs 25 mins   ██████████████▒░░░░░░░░░░   57.59 %
-TypeScript     1 hr 33 mins    █████████▒░░░░░░░░░░░░░░░   37.30 %
-Docker         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-jsonc          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-git ignore     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python         2 hrs 26 mins   ████████████▒░░░░░░░░░░░░   48.80 %
+TypeScript     1 hr 53 mins    █████████▒░░░░░░░░░░░░░░░   37.78 %
+git ignore     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+JSON           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Docker         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+sh             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 shell script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
