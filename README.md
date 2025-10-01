@@ -42,7 +42,7 @@ Other          10 mins         ▒░░░░░░░░░░░░░░░�
 
 ## 🌐 Let's Connect
 
-- **Portfolio:** [utkarsh-verma.com](https://utkarsh-verma.com)
+- **Portfolio:** [uvx.dev](https://uvx.dev)
 - **Email:** theutkarsh.verma00@gmail.com
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/utkarsh-verm4)
 
