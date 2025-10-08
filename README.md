@@ -4,7 +4,7 @@
 
 I'm a fresh college graduate passionate about **systems programming**, **web development**, and **AI**.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ```
 Languages:     Rust • Go • Python • TypeScript • JavaScript
@@ -13,13 +13,13 @@ Interests:     Graphics Programming • Systems Programming • AI/ML
 Tools:         Neovim BTW
 ```
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- Pushing the limits of browser visualization with Rust + WASM + WebGPU
+- Learning systems programming with Rust + WASM + WebGPU
 - Building scalable, high-performance, and secure web applications
 - Making fun terminal tools because there can never be enough of that
 
-## 📊 Weekly Development Breakdown
+## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -39,7 +39,7 @@ shell script   0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🌐 Let's Connect
+## Let's Connect
 
 - **Portfolio:** [uvx.dev](https://uvx.dev)
 - **Email:** mail@uvx.dev
