@@ -42,7 +42,7 @@ shell script   0 secs          ░░░░░░░░░░░░░░░░�
 ## 🌐 Let's Connect
 
 - **Portfolio:** [uvx.dev](https://uvx.dev)
-- **Email:** theutkarsh.verma00@gmail.com
+- **Email:** mail@uvx.dev
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/utkarsh-verm4)
 
 ---
