@@ -24,13 +24,11 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 20 mins
+Total Time: 13 mins
 
-Python       13 mins         █████████████████░░░░░░░░   67.82 %
-TypeScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Python   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
