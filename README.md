@@ -24,18 +24,19 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 October 2025 - To: 18 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-Total Time: 49 mins
+Total Time: 2 hrs 19 mins
 
-Go           33 mins         █████████████████░░░░░░░░   68.08 %
-JavaScript   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-TOML         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Makefile     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Just         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-git ignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go           1 hr 52 mins    ████████████████████▒░░░░   81.17 %
+JavaScript   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+TOML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Makefile     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Just         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+go mod       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+git ignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
