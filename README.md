@@ -24,13 +24,14 @@ Tools:         Neovim BTW
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 October 2025 - To: 02 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-Total Time: 27 mins
+Total Time: 37 mins
 
-Docker   20 mins         ██████████████████▓░░░░░░   75.21 %
-Python   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
-JSON     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Docker     20 mins         ██████████████░░░░░░░░░░░   55.69 %
+Markdown   8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+Python     5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+JSON       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->
