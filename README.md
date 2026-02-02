@@ -19,20 +19,6 @@ Tools:         Neovim BTW
 - Building scalable, high-performance, and secure web applications
 - Making fun terminal tools because there can never be enough of that
 
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 25 January 2026 - To: 01 February 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Let's Connect
 
 - **Portfolio:** [uvx.dev](https://uvx.dev)
